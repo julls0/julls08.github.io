@@ -93,7 +93,7 @@ form textarea {
   background-color: #3ffb00;
 }
 #exit {
-  background: #7B68EE("./obelus.svg") center 100% no-repeat;
+  background: url("./obelus.svg") center 100% no-repeat;
   height: 22px;
   width: 22px;
   position: absolute;
